@@ -3,4 +3,4 @@ Hello, world!
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: jekyll-theme-minimal
